@@ -1,0 +1,9 @@
+body{
+background-size: cover;
+position: fixed;
+text-align: center;
+}
+
+a{
+    color:cyan;
+}
